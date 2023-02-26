@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/Cyniteofficial/Auto-Filter-V5",
-    "repository": "https://github.com/Cyniteofficial/Auto-Filter-V5",
+    "repository": "https://github.com/pawanjaatpk/Auto-Filter-V50",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -95,7 +95,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
